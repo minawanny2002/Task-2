@@ -1,0 +1,337 @@
+.parent
+{
+    background-color: black;
+    width: 100%;
+    margin: auto;
+}
+
+.logo
+{
+    float: left;
+    padding: 10px 0px 10px 150px;
+    width: 96px;
+    height:81px ;
+    
+  
+}
+.list
+{
+    float: right;
+    padding-top: 9px;
+    text-align: center;
+    width: 13%;
+    
+}
+.item1
+{
+    color: tomato;
+}
+.item2
+{
+    color:dodgerblue;
+}
+.item3
+{
+    color:white;
+}
+.item4
+{
+    color:chartreuse;
+}
+
+
+.clear-fix
+{
+    clear: both;
+}
+
+
+.img1
+{
+    width: 100%;
+    height: 80vh;
+}
+.body
+{
+    width: 100%;
+    height: 85vh;
+  background-image: url(./sailboat.jpg);
+  background-position: center;
+  background-size: cover;
+  
+}
+.text1
+{
+    font-family:'Times New Roman', Times, serif;
+    font-size: xx-large;
+text-align: center;
+align-items: center;
+color: black;
+font-weight: bolder;
+font-size: xx-large;
+padding-top: 180px;
+padding-left: 650px;
+display: inline-block;
+}
+
+.button_padding
+{
+    margin-left: 695px;
+}
+.button
+{
+    background-color: aliceblue;
+    width: 120px;
+    height: 60px;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 50px;
+    
+    
+}
+:hover.button
+{
+    background-color: bisque;
+}
+
+
+
+.body2
+{
+    background-color: black;
+
+    width: 100%;
+    height: 150vh;
+    
+    
+}
+.container
+{
+    width: 60%;
+    margin: auto;
+}
+
+.text2
+{
+    color: chartreuse;
+    text-align: center;
+    padding-top: 60px;
+    text-decoration: solid;
+    font-size: 30px;
+    margin-bottom: 80px;
+}
+
+.jane_cooper
+{
+    
+    float: left;
+    width: 25%;
+    color: aliceblue;
+    text-align: center;
+
+
+    
+    
+}
+.jane1_image
+{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    outline: red solid 5px;
+
+    
+}
+
+.jane1_p
+{
+
+    color: red;
+}
+
+.jane2_image
+{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    outline:  cyan solid 5px;
+
+    
+}
+
+.jane2_p
+{
+
+    color:cyan;
+}
+
+
+
+.jane3_image
+{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    outline: white solid 5px;
+
+    
+}
+
+.jane3_p
+{
+
+    color:white;
+}
+
+
+
+
+.jane4_image
+{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    outline: chartreuse solid 5px;
+
+    
+}
+
+.jane4_p
+{
+
+    color:chartreuse;
+}
+
+
+.text3
+{
+    color: red;
+    text-align: center;
+    padding-top: 60px;
+    text-decoration: solid;
+    font-size: 30px;
+    margin-bottom: 80px;
+}
+
+.parent2
+{
+    margin: auto;
+    width: 80%;
+}
+
+.img_1
+{
+
+    float: left;
+    width: 27.33333333%;
+    height: 30vh;
+    background-color: chartreuse;
+    padding-left: 30px;
+    margin-left: 40px;
+}
+.i1
+{
+    width: 100%;
+    height: 30vh;
+}
+
+
+.img_2
+{
+
+    float: left;
+    width: 27.33333333%;
+    background-color: cyan;
+    padding-left: 30px;
+    margin-left: 40px;
+    height: 30vh;
+}
+.i2
+{
+    width: 100%;
+    height: 30vh;
+}
+
+
+
+.img_3
+{
+
+    float: left;
+    width: 27.33333333%;
+    background-color: red;
+    padding-left: 30px;
+    margin-left: 40px;
+    height: 30vh;
+}
+.i3
+{
+    width: 100%;
+    height: 30vh;
+}
+
+
+.img_4
+{
+
+    float: left;
+    width: 27.33333333%;
+    background-color: red;
+    padding-left: 30px;
+    margin-left: 40px;
+    margin-top: 40px;
+    height: 30vh;
+}
+.i4
+{
+    width: 100%;
+    height: 30vh;
+}
+
+
+.img_5
+{
+
+    float: left;
+    width: 27.33333333%;
+    background-color:chartreuse;
+    padding-left: 30px;
+    margin-left: 40px;
+    margin-top: 40px;
+    height: 30vh;
+}
+.i5
+{
+    width: 100%;
+    height: 30vh;
+}
+
+
+.img_6
+{
+
+    float: left;
+    width: 27.33333333%;
+    background-color:cyan;
+    padding-left: 30px;
+    margin-left: 40px;
+    margin-top: 40px;
+    height: 30vh;
+}
+.i6
+{
+    width: 100%;
+    height: 30vh;
+}
